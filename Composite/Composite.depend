@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580157834 source:c:\users\iuliu\desktop\newparts.github.io\tapoo\composite\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+
